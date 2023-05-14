@@ -1,6 +1,6 @@
 - 👋 Hi, My Goverment name is Kyhl, but in this online world I go by @IDaft 
-- 👀 I’m interested in ... Python, Java, Java Script, C++
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Full Stack Dev & Front End Dev
+- 🌱 I’m currently learning ... HTML, CSS, & Java Script
 - 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... @I_Daft on all Social Medias 
 
